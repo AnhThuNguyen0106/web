@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Trang chủ -->
+  <url>
+    <loc>https://gift-people-05630634.figma.site/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Sản phẩm -->
+  <url>
+    <loc>https://gift-people-05630634.figma.site/#san-pham</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Câu chuyện thương hiệu -->
+  <url>
+    <loc>https://gift-people-05630634.figma.site/#cau-chuyen</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Di sản trà -->
+  <url>
+    <loc>https://gift-people-05630634.figma.site/#di-san</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://gift-people-05630634.figma.site/#blog</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Bài blog 1 -->
+  <url>
+    <loc>https://gift-people-05630634.figma.site/blog/cach-pha-tra-shan-tuyet</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Bài blog 2 -->
+  <url>
+    <loc>https://gift-people-05630634.figma.site/blog/loi-ich-suc-khoe-tra-shan-tuyet</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Bài blog 3 -->
+  <url>
+    <loc>https://gift-people-05630634.figma.site/blog/van-hoa-tra-viet-nam</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Liên hệ -->
+  <url>
+    <loc>https://gift-people-05630634.figma.site/#lien-he</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
